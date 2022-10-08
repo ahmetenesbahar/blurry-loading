@@ -1,4 +1,4 @@
-## Login/Register Page
+## Blurry Loading
 
 Bu proje HTML CSS JavaScirpt kullanarak geliştirdiğim blurry loading animasyonudur.
 
