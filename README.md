@@ -1,13 +1,13 @@
 ## Login/Register Page
 
-Bu proje HTML CSS JavaScirpt kullanarak geliştirdiğim form input animasyonu uygulamasıdır.
+Bu proje HTML CSS JavaScirpt kullanarak geliştirdiğim blurry loading animasyonudur.
 
 ## Kurulum
 
 İlk olarak aşağıdaki komutu kopyalanız. Ardından terminal ekranını açarak, projenin kurulmasını istediğiniz bir alana gelerek yapıştırıp çalıştırınız.
 
 ```sh
-git clone https://github.com/ahmetenesbahar/.git
+git clone https://github.com/ahmetenesbahar/blurry-loading.git
 ```
 
 Klonlama işleminin ardından live server açarak kodu önizleyebilirsiniz.
@@ -15,12 +15,7 @@ Klonlama işleminin ardından live server açarak kodu önizleyebilirsiniz.
 ## Ekran Görüntüleri
 
 <div>
-<img src="https://github.com/ahmetenesbahar/login-register-page/blob/main/assets/screenshots/Login%2C.png">
-<img src="https://github.com/ahmetenesbahar/login-register-page/blob/main/assets/screenshots/Sign%20Up.png">
-<img src="https://github.com/ahmetenesbahar/login-register-page/blob/main/assets/screenshots/Login%20Msize.png">
-<img src="https://github.com/ahmetenesbahar/login-register-page/blob/main/assets/screenshots/Sign%20Up%20Msize.png">
-<img src="https://github.com/ahmetenesbahar/login-register-page/blob/main/assets/screenshots/Login%20Ssize.png">
-<img src="https://github.com/ahmetenesbahar/login-register-page/blob/main/assets/screenshots/Sign%20Up%20Ssize.png">
+<img src="https://github.com/ahmetenesbahar/blurry-loading/blob/main/assets/screenshots/Blury%20loading.png">
 
 </div>
 
