@@ -15,7 +15,7 @@ Klonlama işleminin ardından live server açarak kodu önizleyebilirsiniz.
 ## Ekran Görüntüleri
 
 <div>
-<img src="https://github.com/ahmetenesbahar/blurry-loading/blob/main/assets/screenshots/Blury%20loading.png">
+<img src="https://github.com/ahmetenesbahar/blurry-loading/blob/main/assets/screenshots/Blurry%20loading.png">
 
 </div>
 
